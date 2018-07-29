@@ -1,0 +1,3 @@
+FILE					Ranking		SCORE
+sgd.csv					9044		0.74641
+logistic_regression.csv	8196		0.76076
