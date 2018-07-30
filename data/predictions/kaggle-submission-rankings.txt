@@ -1,3 +1,6 @@
-FILE					Ranking		SCORE
-sgd.csv					9044		0.74641
-logistic_regression.csv	8196		0.76076
+FILE								Ranking		SCORE
+sgd.csv								9044		0.74641
+logistic_regression.csv				8196		0.76076
+logistic_regression_tuned.csv		7728		0.76555
+sgd_tuned_with_hinge.csv			5860		0.77511 (Advanced 1862 places)
+sgd_tuned_with_log.csv				4360		0.78468 (Advanced 1497 places)
