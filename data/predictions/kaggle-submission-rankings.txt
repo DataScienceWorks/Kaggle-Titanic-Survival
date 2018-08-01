@@ -5,3 +5,5 @@ logistic_regression_tuned.csv		7728		0.76555
 sgd_tuned_with_hinge.csv			5860		0.77511 (Advanced 1862 places)
 sgd_tuned_with_log.csv				4360		0.78468 (Advanced 1497 places)
 svm_with_rbf_kernel_tuned.csv		1621		0.79904 (Advanced 2722 places)
+decision_tree.csv					--			0.79425 (The confusion matrix turned out to be  fablous but the score ain't best. Overfitting??)
+decision_tree_optimized_by_grid_search.csv		0.75119 (Score after optimization with Grid Search isn't better and has gone down. Decision Tree is not stable, is a right  stmt??)
