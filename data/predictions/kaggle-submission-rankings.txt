@@ -8,3 +8,4 @@ svm_with_rbf_kernel_tuned.csv		1621		0.79904 (Advanced 2722 places)
 decision_tree.csv					--			0.79425 (The confusion matrix turned out to be  fablous but the score ain't best. Overfitting??)
 decision_tree_optimized_by_grid_search.csv		0.75119 (Score after optimization with Grid Search isn't better and has gone down. Decision Tree is not stable, is a right  stmt??)
 adaboost_randomforest.csv			--			0.71770 (What AdaBoost giving way low score in Kaggle than hand-tuned simple model)
+gbm_default.csv						--			0.75598 
